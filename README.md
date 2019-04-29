@@ -10,7 +10,7 @@
 
 1. A vector is given, `[2,3,9]`. What's the norm?
 
-2. I have a biased 6-sided die. P(T) = 0.45. What's the probability, if I flip the coin 100 times, that I will get exactly 14 heads?
+2. I have a biased coin. P(T) = 0.45. What's the probability, if I flip the coin 100 times, that I will get exactly 14 heads?
 
 3. What is the rank of a matrix?
 
